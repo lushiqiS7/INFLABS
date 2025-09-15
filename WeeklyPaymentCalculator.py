@@ -39,7 +39,6 @@ import sys
 # You can use sys.argv[1] to get the first input argument.
 # sys.argv[2] is the second argument, etc.
 def WeeklyPaymentCalculator():
-    import sys
     try:
         hours = float(sys.argv[1])
         if hours > 24*7:

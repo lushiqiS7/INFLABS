@@ -1,2 +1,0 @@
-# INFLABS
-Programming fundamental 
